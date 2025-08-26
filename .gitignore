@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+*.log
+
+# Vite local config
+vite.config.local.*
